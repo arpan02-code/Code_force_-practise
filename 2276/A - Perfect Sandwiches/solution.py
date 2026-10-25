@@ -1,5 +1,5 @@
 import sys
- 
+ 
 def solve():
     input_data = sys.stdin.read().split()
     
@@ -22,7 +22,6 @@ def solve():
             out.append(str(min(b,a-b)))
     print('
 '.join(out))
- 
+ 
 if __name__ == "__main__":
   solve()
-        
