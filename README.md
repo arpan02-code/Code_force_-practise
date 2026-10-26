@@ -6,22 +6,36 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 2 |
+| 2 | 4 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [data structures](#data-structures) (1)
 - [greedy](#greedy) (1)
+- [implementation](#implementation) (1)
 - [math](#math) (1)
 
 ---
+
+### data structures
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2275B | [Did Not Go to Print](https://codeforces.com/contest/2275/problem/B) | 800 | [Python 3](https://github.com/arpan02-code/Code_force_-practise/blob/HEAD/2275/B%20-%20Did%20Not%20Go%20to%20Print/solution.py) |
 
 ### greedy
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2276A | [Perfect Sandwiches](https://codeforces.com/contest/2276/problem/A) | 800 | [Python 3](https://github.com/arpan02-code/Code_force_-practise/blob/HEAD/2276/A%20-%20Perfect%20Sandwiches/solution.py) |
+
+### implementation
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2275B | [Did Not Go to Print](https://codeforces.com/contest/2275/problem/B) | 800 | [Python 3](https://github.com/arpan02-code/Code_force_-practise/blob/HEAD/2275/B%20-%20Did%20Not%20Go%20to%20Print/solution.py) |
 
 ### math
 
