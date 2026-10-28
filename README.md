@@ -6,17 +6,20 @@
 
 | Total Problems | Topics |
 |---|---|
-| 3 | 5 |
+| 4 | 8 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [data structures](#data-structures) (1)
+- [dfs and similar](#dfs-and-similar) (1)
+- [dp](#dp) (1)
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (1)
-- [implementation](#implementation) (2)
-- [math](#math) (1)
+- [hashing](#hashing) (1)
+- [implementation](#implementation) (3)
+- [math](#math) (2)
 
 ---
 
@@ -25,6 +28,18 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2275B | [Did Not Go to Print](https://codeforces.com/contest/2275/problem/B) | 800 | [Python 3](https://github.com/arpan02-code/Code_force_-practise/blob/HEAD/2275/B%20-%20Did%20Not%20Go%20to%20Print/solution.py) |
+
+### dfs and similar
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2274A | [The Projections of Paco](https://codeforces.com/contest/2274/problem/A) | 800 | [Python 3](https://github.com/arpan02-code/Code_force_-practise/blob/HEAD/2274/A%20-%20The%20Projections%20of%20Paco/solution.py) |
+
+### dp
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2274A | [The Projections of Paco](https://codeforces.com/contest/2274/problem/A) | 800 | [Python 3](https://github.com/arpan02-code/Code_force_-practise/blob/HEAD/2274/A%20-%20The%20Projections%20of%20Paco/solution.py) |
 
 ### geometry
 
@@ -38,10 +53,17 @@
 |---|---------|------------|----------|
 | 2276A | [Perfect Sandwiches](https://codeforces.com/contest/2276/problem/A) | 800 | [Python 3](https://github.com/arpan02-code/Code_force_-practise/blob/HEAD/2276/A%20-%20Perfect%20Sandwiches/solution.py) |
 
+### hashing
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2274A | [The Projections of Paco](https://codeforces.com/contest/2274/problem/A) | 800 | [Python 3](https://github.com/arpan02-code/Code_force_-practise/blob/HEAD/2274/A%20-%20The%20Projections%20of%20Paco/solution.py) |
+
 ### implementation
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2274A | [The Projections of Paco](https://codeforces.com/contest/2274/problem/A) | 800 | [Python 3](https://github.com/arpan02-code/Code_force_-practise/blob/HEAD/2274/A%20-%20The%20Projections%20of%20Paco/solution.py) |
 | 2275A | [In Search of Convenience](https://codeforces.com/contest/2275/problem/A) | 800 | [Python 3](https://github.com/arpan02-code/Code_force_-practise/blob/HEAD/2275/A%20-%20In%20Search%20of%20Convenience/solution.py) |
 | 2275B | [Did Not Go to Print](https://codeforces.com/contest/2275/problem/B) | 800 | [Python 3](https://github.com/arpan02-code/Code_force_-practise/blob/HEAD/2275/B%20-%20Did%20Not%20Go%20to%20Print/solution.py) |
 
@@ -49,6 +71,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2274A | [The Projections of Paco](https://codeforces.com/contest/2274/problem/A) | 800 | [Python 3](https://github.com/arpan02-code/Code_force_-practise/blob/HEAD/2274/A%20-%20The%20Projections%20of%20Paco/solution.py) |
 | 2276A | [Perfect Sandwiches](https://codeforces.com/contest/2276/problem/A) | 800 | [Python 3](https://github.com/arpan02-code/Code_force_-practise/blob/HEAD/2276/A%20-%20Perfect%20Sandwiches/solution.py) |
 
 ---
