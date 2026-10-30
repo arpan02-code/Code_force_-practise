@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 5 | 9 |
+| 6 | 9 |
 
 ---
 
@@ -17,10 +17,10 @@
 - [dfs and similar](#dfs-and-similar) (1)
 - [dp](#dp) (1)
 - [geometry](#geometry) (1)
-- [greedy](#greedy) (1)
+- [greedy](#greedy) (2)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (3)
-- [math](#math) (3)
+- [math](#math) (4)
 
 ---
 
@@ -58,6 +58,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2269A | [SauSaGe Bank](https://codeforces.com/contest/2269/problem/A) | 800 | [Python 3](https://github.com/arpan02-code/Code_force_-practise/blob/HEAD/2269/A%20-%20SauSaGe%20Bank/solution.py) |
 | 2276A | [Perfect Sandwiches](https://codeforces.com/contest/2276/problem/A) | 800 | [Python 3](https://github.com/arpan02-code/Code_force_-practise/blob/HEAD/2276/A%20-%20Perfect%20Sandwiches/solution.py) |
 
 ### hashing
@@ -78,6 +79,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2269A | [SauSaGe Bank](https://codeforces.com/contest/2269/problem/A) | 800 | [Python 3](https://github.com/arpan02-code/Code_force_-practise/blob/HEAD/2269/A%20-%20SauSaGe%20Bank/solution.py) |
 | 2271A | [Robot Odd Moves](https://codeforces.com/contest/2271/problem/A) | 800 | [Python 3](https://github.com/arpan02-code/Code_force_-practise/blob/HEAD/2271/A%20-%20Robot%20Odd%20Moves/solution.py) |
 | 2274A | [The Projections of Paco](https://codeforces.com/contest/2274/problem/A) | 800 | [Python 3](https://github.com/arpan02-code/Code_force_-practise/blob/HEAD/2274/A%20-%20The%20Projections%20of%20Paco/solution.py) |
 | 2276A | [Perfect Sandwiches](https://codeforces.com/contest/2276/problem/A) | 800 | [Python 3](https://github.com/arpan02-code/Code_force_-practise/blob/HEAD/2276/A%20-%20Perfect%20Sandwiches/solution.py) |
