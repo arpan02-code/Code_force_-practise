@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 7 | 11 |
+| 8 | 12 |
 
 ---
 
@@ -18,11 +18,12 @@
 - [dfs and similar](#dfs-and-similar) (1)
 - [dp](#dp) (1)
 - [geometry](#geometry) (1)
-- [greedy](#greedy) (2)
+- [greedy](#greedy) (3)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (3)
 - [math](#math) (4)
 - [sortings](#sortings) (1)
+- [strings](#strings) (1)
 
 ---
 
@@ -67,6 +68,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2267A | [Turn Into a Palindrome](https://codeforces.com/contest/2267/problem/A) | 800 | [Python 3](https://github.com/arpan02-code/Code_force_-practise/blob/HEAD/2267/A%20-%20Turn%20Into%20a%20Palindrome/solution.py) |
 | 2269A | [SauSaGe Bank](https://codeforces.com/contest/2269/problem/A) | 800 | [Python 3](https://github.com/arpan02-code/Code_force_-practise/blob/HEAD/2269/A%20-%20SauSaGe%20Bank/solution.py) |
 | 2276A | [Perfect Sandwiches](https://codeforces.com/contest/2276/problem/A) | 800 | [Python 3](https://github.com/arpan02-code/Code_force_-practise/blob/HEAD/2276/A%20-%20Perfect%20Sandwiches/solution.py) |
 
@@ -98,6 +100,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2267B | [Fashionable Array](https://codeforces.com/contest/2267/problem/B) | 800 | [Python 3](https://github.com/arpan02-code/Code_force_-practise/blob/HEAD/2267/B%20-%20Fashionable%20Array/solution.py) |
+
+### strings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2267A | [Turn Into a Palindrome](https://codeforces.com/contest/2267/problem/A) | 800 | [Python 3](https://github.com/arpan02-code/Code_force_-practise/blob/HEAD/2267/A%20-%20Turn%20Into%20a%20Palindrome/solution.py) |
 
 ---
 
