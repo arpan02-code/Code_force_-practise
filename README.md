@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 9 | 13 |
+| 10 | 13 |
 
 ---
 
@@ -19,7 +19,7 @@
 - [dp](#dp) (1)
 - [games](#games) (1)
 - [geometry](#geometry) (1)
-- [greedy](#greedy) (4)
+- [greedy](#greedy) (5)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (3)
 - [math](#math) (5)
@@ -75,6 +75,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2266A | [Good Contest](https://codeforces.com/contest/2266/problem/A) | 800 | [Python 3](https://github.com/arpan02-code/Code_force_-practise/blob/HEAD/2266/A%20-%20Good%20Contest/solution.py) |
 | 2266B | [Three Piles](https://codeforces.com/contest/2266/problem/B) | 800 | [Python 3](https://github.com/arpan02-code/Code_force_-practise/blob/HEAD/2266/B%20-%20Three%20Piles/solution.py) |
 | 2267A | [Turn Into a Palindrome](https://codeforces.com/contest/2267/problem/A) | 800 | [Python 3](https://github.com/arpan02-code/Code_force_-practise/blob/HEAD/2267/A%20-%20Turn%20Into%20a%20Palindrome/solution.py) |
 | 2269A | [SauSaGe Bank](https://codeforces.com/contest/2269/problem/A) | 800 | [Python 3](https://github.com/arpan02-code/Code_force_-practise/blob/HEAD/2269/A%20-%20SauSaGe%20Bank/solution.py) |
