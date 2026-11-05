@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 11 | 14 |
+| 12 | 14 |
 
 ---
 
@@ -17,7 +17,7 @@
 - [data structures](#data-structures) (1)
 - [dfs and similar](#dfs-and-similar) (1)
 - [dp](#dp) (1)
-- [games](#games) (1)
+- [games](#games) (2)
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (5)
 - [hashing](#hashing) (1)
@@ -64,6 +64,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2263A | [Min Max Game](https://codeforces.com/contest/2263/problem/A) | 800 | [Python 3](https://github.com/arpan02-code/Code_force_-practise/blob/HEAD/2263/A%20-%20Min%20Max%20Game/solution.py) |
 | 2266B | [Three Piles](https://codeforces.com/contest/2266/problem/B) | 800 | [Python 3](https://github.com/arpan02-code/Code_force_-practise/blob/HEAD/2266/B%20-%20Three%20Piles/solution.py) |
 
 ### geometry
