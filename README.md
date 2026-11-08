@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 14 | 14 |
+| 15 | 15 |
 
 ---
 
@@ -22,7 +22,8 @@
 - [greedy](#greedy) (5)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (5)
-- [math](#math) (6)
+- [math](#math) (7)
+- [number theory](#number-theory) (1)
 - [sortings](#sortings) (2)
 - [strings](#strings) (1)
 - [two pointers](#two-pointers) (1)
@@ -104,12 +105,19 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2259B | [Minus Two](https://codeforces.com/contest/2259/problem/B) | 800 | [Python 3](https://github.com/arpan02-code/Code_force_-practise/blob/HEAD/2259/B%20-%20Minus%20Two/solution.py) |
 | 2261A | [Hey, It's Me, Souvlakity](https://codeforces.com/contest/2261/problem/A) | 800 | [Python 3](https://github.com/arpan02-code/Code_force_-practise/blob/HEAD/2261/A%20-%20Hey%2C%20It's%20Me%2C%20Souvlakity/solution.py) |
 | 2266B | [Three Piles](https://codeforces.com/contest/2266/problem/B) | 800 | [Python 3](https://github.com/arpan02-code/Code_force_-practise/blob/HEAD/2266/B%20-%20Three%20Piles/solution.py) |
 | 2269A | [SauSaGe Bank](https://codeforces.com/contest/2269/problem/A) | 800 | [Python 3](https://github.com/arpan02-code/Code_force_-practise/blob/HEAD/2269/A%20-%20SauSaGe%20Bank/solution.py) |
 | 2271A | [Robot Odd Moves](https://codeforces.com/contest/2271/problem/A) | 800 | [Python 3](https://github.com/arpan02-code/Code_force_-practise/blob/HEAD/2271/A%20-%20Robot%20Odd%20Moves/solution.py) |
 | 2274A | [The Projections of Paco](https://codeforces.com/contest/2274/problem/A) | 800 | [Python 3](https://github.com/arpan02-code/Code_force_-practise/blob/HEAD/2274/A%20-%20The%20Projections%20of%20Paco/solution.py) |
 | 2276A | [Perfect Sandwiches](https://codeforces.com/contest/2276/problem/A) | 800 | [Python 3](https://github.com/arpan02-code/Code_force_-practise/blob/HEAD/2276/A%20-%20Perfect%20Sandwiches/solution.py) |
+
+### number theory
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2259B | [Minus Two](https://codeforces.com/contest/2259/problem/B) | 800 | [Python 3](https://github.com/arpan02-code/Code_force_-practise/blob/HEAD/2259/B%20-%20Minus%20Two/solution.py) |
 
 ### sortings
 
