@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 17 | 15 |
+| 18 | 15 |
 
 ---
 
@@ -22,7 +22,7 @@
 - [greedy](#greedy) (6)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (5)
-- [math](#math) (8)
+- [math](#math) (9)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (2)
 - [strings](#strings) (1)
@@ -107,6 +107,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2257B | [Gigantomachy](https://codeforces.com/contest/2257/problem/B) | 800 | [Python 3](https://github.com/arpan02-code/Code_force_-practise/blob/HEAD/2257/B%20-%20Gigantomachy/solution.py) |
 | 2258A | [Odd Eraser](https://codeforces.com/contest/2258/problem/A) | 800 | [Python 3](https://github.com/arpan02-code/Code_force_-practise/blob/HEAD/2258/A%20-%20Odd%20Eraser/solution.py) |
 | 2259B | [Minus Two](https://codeforces.com/contest/2259/problem/B) | 800 | [Python 3](https://github.com/arpan02-code/Code_force_-practise/blob/HEAD/2259/B%20-%20Minus%20Two/solution.py) |
 | 2261A | [Hey, It's Me, Souvlakity](https://codeforces.com/contest/2261/problem/A) | 800 | [Python 3](https://github.com/arpan02-code/Code_force_-practise/blob/HEAD/2261/A%20-%20Hey%2C%20It's%20Me%2C%20Souvlakity/solution.py) |
