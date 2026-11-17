@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 21 | 15 |
+| 22 | 15 |
 
 ---
 
@@ -14,12 +14,12 @@
 
 - [brute force](#brute-force) (3)
 - [constructive algorithms](#constructive-algorithms) (2)
-- [data structures](#data-structures) (1)
+- [data structures](#data-structures) (2)
 - [dfs and similar](#dfs-and-similar) (1)
 - [dp](#dp) (1)
 - [games](#games) (3)
 - [geometry](#geometry) (1)
-- [greedy](#greedy) (6)
+- [greedy](#greedy) (7)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (6)
 - [math](#math) (10)
@@ -49,6 +49,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2252A | [Boss Fight](https://codeforces.com/contest/2252/problem/A) | 800 | [Python 3](https://github.com/arpan02-code/Code_force_-practise/blob/HEAD/2252/A%20-%20Boss%20Fight/solution.py) |
 | 2275B | [Did Not Go to Print](https://codeforces.com/contest/2275/problem/B) | 800 | [Python 3](https://github.com/arpan02-code/Code_force_-practise/blob/HEAD/2275/B%20-%20Did%20Not%20Go%20to%20Print/solution.py) |
 
 ### dfs and similar
@@ -81,6 +82,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2252A | [Boss Fight](https://codeforces.com/contest/2252/problem/A) | 800 | [Python 3](https://github.com/arpan02-code/Code_force_-practise/blob/HEAD/2252/A%20-%20Boss%20Fight/solution.py) |
 | 2259A | [Moo Language School](https://codeforces.com/contest/2259/problem/A) | 800 | [Python 3](https://github.com/arpan02-code/Code_force_-practise/blob/HEAD/2259/A%20-%20Moo%20Language%20School/solution.py) |
 | 2266A | [Good Contest](https://codeforces.com/contest/2266/problem/A) | 800 | [Python 3](https://github.com/arpan02-code/Code_force_-practise/blob/HEAD/2266/A%20-%20Good%20Contest/solution.py) |
 | 2266B | [Three Piles](https://codeforces.com/contest/2266/problem/B) | 800 | [Python 3](https://github.com/arpan02-code/Code_force_-practise/blob/HEAD/2266/B%20-%20Three%20Piles/solution.py) |
