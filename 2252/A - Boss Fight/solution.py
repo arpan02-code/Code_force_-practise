@@ -1,7 +1,7 @@
 from collections import Counter
  
  
-def solve():
+def boss():
   n = int(input())
   arr = list(map(int, input().split()))
  
@@ -18,7 +18,7 @@ def solve():
  
 def main():
   for _ in range(int(input())):
-    solve()
+    boss()
  
  
 if __name__ == "__main__":
