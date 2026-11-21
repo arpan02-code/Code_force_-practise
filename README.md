@@ -6,24 +6,24 @@
 
 | Total Problems | Topics |
 |---|---|
-| 24 | 15 |
+| 25 | 15 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [brute force](#brute-force) (4)
-- [constructive algorithms](#constructive-algorithms) (2)
+- [constructive algorithms](#constructive-algorithms) (3)
 - [data structures](#data-structures) (2)
 - [dfs and similar](#dfs-and-similar) (1)
-- [dp](#dp) (1)
+- [dp](#dp) (2)
 - [games](#games) (3)
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (8)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (7)
 - [math](#math) (11)
-- [number theory](#number-theory) (1)
+- [number theory](#number-theory) (2)
 - [sortings](#sortings) (4)
 - [strings](#strings) (2)
 - [two pointers](#two-pointers) (2)
@@ -43,6 +43,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2247A | [Zero Sum](https://codeforces.com/contest/2247/problem/A) | 800 | [Python 3](https://github.com/arpan02-code/Code_force_-practise/blob/HEAD/2247/A%20-%20Zero%20Sum/solution.py) |
 | 2267B | [Fashionable Array](https://codeforces.com/contest/2267/problem/B) | 800 | [Python 3](https://github.com/arpan02-code/Code_force_-practise/blob/HEAD/2267/B%20-%20Fashionable%20Array/solution.py) |
 | 2271A | [Robot Odd Moves](https://codeforces.com/contest/2271/problem/A) | 800 | [Python 3](https://github.com/arpan02-code/Code_force_-practise/blob/HEAD/2271/A%20-%20Robot%20Odd%20Moves/solution.py) |
 
@@ -63,6 +64,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2247A | [Zero Sum](https://codeforces.com/contest/2247/problem/A) | 800 | [Python 3](https://github.com/arpan02-code/Code_force_-practise/blob/HEAD/2247/A%20-%20Zero%20Sum/solution.py) |
 | 2274A | [The Projections of Paco](https://codeforces.com/contest/2274/problem/A) | 800 | [Python 3](https://github.com/arpan02-code/Code_force_-practise/blob/HEAD/2274/A%20-%20The%20Projections%20of%20Paco/solution.py) |
 
 ### games
@@ -130,6 +132,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2247A | [Zero Sum](https://codeforces.com/contest/2247/problem/A) | 800 | [Python 3](https://github.com/arpan02-code/Code_force_-practise/blob/HEAD/2247/A%20-%20Zero%20Sum/solution.py) |
 | 2259B | [Minus Two](https://codeforces.com/contest/2259/problem/B) | 800 | [Python 3](https://github.com/arpan02-code/Code_force_-practise/blob/HEAD/2259/B%20-%20Minus%20Two/solution.py) |
 
 ### sortings
