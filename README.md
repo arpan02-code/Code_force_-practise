@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 26 | 15 |
+| 27 | 15 |
 
 ---
 
@@ -19,7 +19,7 @@
 - [dp](#dp) (2)
 - [games](#games) (3)
 - [geometry](#geometry) (1)
-- [greedy](#greedy) (8)
+- [greedy](#greedy) (9)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (7)
 - [math](#math) (11)
@@ -86,6 +86,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2245A | [Who Watches the Watchpig?](https://codeforces.com/contest/2245/problem/A) | 800 | [Python 3](https://github.com/arpan02-code/Code_force_-practise/blob/HEAD/2245/A%20-%20Who%20Watches%20the%20Watchpig%3F/solution.py) |
 | 2248A | [You Delete, I Delete](https://codeforces.com/contest/2248/problem/A) | 800 | [Python 3](https://github.com/arpan02-code/Code_force_-practise/blob/HEAD/2248/A%20-%20You%20Delete%2C%20I%20Delete/solution.py) |
 | 2252A | [Boss Fight](https://codeforces.com/contest/2252/problem/A) | 800 | [Python 3](https://github.com/arpan02-code/Code_force_-practise/blob/HEAD/2252/A%20-%20Boss%20Fight/solution.py) |
 | 2259A | [Moo Language School](https://codeforces.com/contest/2259/problem/A) | 800 | [Python 3](https://github.com/arpan02-code/Code_force_-practise/blob/HEAD/2259/A%20-%20Moo%20Language%20School/solution.py) |
