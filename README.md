@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 29 | 16 |
+| 30 | 16 |
 
 ---
 
@@ -17,16 +17,16 @@
 - [constructive algorithms](#constructive-algorithms) (5)
 - [data structures](#data-structures) (2)
 - [dfs and similar](#dfs-and-similar) (1)
-- [dp](#dp) (2)
-- [games](#games) (3)
+- [dp](#dp) (3)
+- [games](#games) (4)
 - [geometry](#geometry) (1)
-- [greedy](#greedy) (10)
+- [greedy](#greedy) (11)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (7)
 - [math](#math) (13)
 - [number theory](#number-theory) (2)
 - [sortings](#sortings) (5)
-- [strings](#strings) (2)
+- [strings](#strings) (3)
 - [two pointers](#two-pointers) (2)
 
 ---
@@ -73,6 +73,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2244A | [Iskander and Drawings](https://codeforces.com/contest/2244/problem/A) | 800 | [Python 3](https://github.com/arpan02-code/Code_force_-practise/blob/HEAD/2244/A%20-%20Iskander%20and%20Drawings/solution.py) |
 | 2247A | [Zero Sum](https://codeforces.com/contest/2247/problem/A) | 800 | [Python 3](https://github.com/arpan02-code/Code_force_-practise/blob/HEAD/2247/A%20-%20Zero%20Sum/solution.py) |
 | 2274A | [The Projections of Paco](https://codeforces.com/contest/2274/problem/A) | 800 | [Python 3](https://github.com/arpan02-code/Code_force_-practise/blob/HEAD/2274/A%20-%20The%20Projections%20of%20Paco/solution.py) |
 
@@ -80,6 +81,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2244A | [Iskander and Drawings](https://codeforces.com/contest/2244/problem/A) | 800 | [Python 3](https://github.com/arpan02-code/Code_force_-practise/blob/HEAD/2244/A%20-%20Iskander%20and%20Drawings/solution.py) |
 | 2261A | [Hey, It's Me, Souvlakity](https://codeforces.com/contest/2261/problem/A) | 800 | [Python 3](https://github.com/arpan02-code/Code_force_-practise/blob/HEAD/2261/A%20-%20Hey%2C%20It's%20Me%2C%20Souvlakity/solution.py) |
 | 2263A | [Min Max Game](https://codeforces.com/contest/2263/problem/A) | 800 | [Python 3](https://github.com/arpan02-code/Code_force_-practise/blob/HEAD/2263/A%20-%20Min%20Max%20Game/solution.py) |
 | 2266B | [Three Piles](https://codeforces.com/contest/2266/problem/B) | 800 | [Python 3](https://github.com/arpan02-code/Code_force_-practise/blob/HEAD/2266/B%20-%20Three%20Piles/solution.py) |
@@ -94,6 +96,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2244A | [Iskander and Drawings](https://codeforces.com/contest/2244/problem/A) | 800 | [Python 3](https://github.com/arpan02-code/Code_force_-practise/blob/HEAD/2244/A%20-%20Iskander%20and%20Drawings/solution.py) |
 | 2244B | [Nikita and Books](https://codeforces.com/contest/2244/problem/B) | 800 | [Python 3](https://github.com/arpan02-code/Code_force_-practise/blob/HEAD/2244/B%20-%20Nikita%20and%20Books/solution.py) |
 | 2245A | [Who Watches the Watchpig?](https://codeforces.com/contest/2245/problem/A) | 800 | [Python 3](https://github.com/arpan02-code/Code_force_-practise/blob/HEAD/2245/A%20-%20Who%20Watches%20the%20Watchpig%3F/solution.py) |
 | 2248A | [You Delete, I Delete](https://codeforces.com/contest/2248/problem/A) | 800 | [Python 3](https://github.com/arpan02-code/Code_force_-practise/blob/HEAD/2248/A%20-%20You%20Delete%2C%20I%20Delete/solution.py) |
@@ -162,6 +165,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2244A | [Iskander and Drawings](https://codeforces.com/contest/2244/problem/A) | 800 | [Python 3](https://github.com/arpan02-code/Code_force_-practise/blob/HEAD/2244/A%20-%20Iskander%20and%20Drawings/solution.py) |
 | 2257A | [Creating Abbreviations](https://codeforces.com/contest/2257/problem/A) | 800 | [Python 3](https://github.com/arpan02-code/Code_force_-practise/blob/HEAD/2257/A%20-%20Creating%20Abbreviations/solution.py) |
 | 2267A | [Turn Into a Palindrome](https://codeforces.com/contest/2267/problem/A) | 800 | [Python 3](https://github.com/arpan02-code/Code_force_-practise/blob/HEAD/2267/A%20-%20Turn%20Into%20a%20Palindrome/solution.py) |
 
