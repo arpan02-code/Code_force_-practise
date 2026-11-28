@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 30 | 16 |
+| 31 | 16 |
 
 ---
 
@@ -25,8 +25,8 @@
 - [implementation](#implementation) (7)
 - [math](#math) (13)
 - [number theory](#number-theory) (2)
-- [sortings](#sortings) (5)
-- [strings](#strings) (3)
+- [sortings](#sortings) (6)
+- [strings](#strings) (4)
 - [two pointers](#two-pointers) (2)
 
 ---
@@ -155,6 +155,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2242A | [Bigrams](https://codeforces.com/contest/2242/problem/A) | 800 | [Python 3](https://github.com/arpan02-code/Code_force_-practise/blob/HEAD/2242/A%20-%20Bigrams/solution.py) |
 | 2244B | [Nikita and Books](https://codeforces.com/contest/2244/problem/B) | 800 | [Python 3](https://github.com/arpan02-code/Code_force_-practise/blob/HEAD/2244/B%20-%20Nikita%20and%20Books/solution.py) |
 | 2254A | [Riptide](https://codeforces.com/contest/2254/problem/A) | 800 | [Python 3](https://github.com/arpan02-code/Code_force_-practise/blob/HEAD/2254/A%20-%20Riptide/solution.py) |
 | 2256A | [Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A) | 800 | [Python 3](https://github.com/arpan02-code/Code_force_-practise/blob/HEAD/2256/A%20-%20Three%20Numbers%20on%20the%20Blackboard/solution.py) |
@@ -165,6 +166,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2242A | [Bigrams](https://codeforces.com/contest/2242/problem/A) | 800 | [Python 3](https://github.com/arpan02-code/Code_force_-practise/blob/HEAD/2242/A%20-%20Bigrams/solution.py) |
 | 2244A | [Iskander and Drawings](https://codeforces.com/contest/2244/problem/A) | 800 | [Python 3](https://github.com/arpan02-code/Code_force_-practise/blob/HEAD/2244/A%20-%20Iskander%20and%20Drawings/solution.py) |
 | 2257A | [Creating Abbreviations](https://codeforces.com/contest/2257/problem/A) | 800 | [Python 3](https://github.com/arpan02-code/Code_force_-practise/blob/HEAD/2257/A%20-%20Creating%20Abbreviations/solution.py) |
 | 2267A | [Turn Into a Palindrome](https://codeforces.com/contest/2267/problem/A) | 800 | [Python 3](https://github.com/arpan02-code/Code_force_-practise/blob/HEAD/2267/A%20-%20Turn%20Into%20a%20Palindrome/solution.py) |
